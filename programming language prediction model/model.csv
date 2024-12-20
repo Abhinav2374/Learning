@@ -1,0 +1,502 @@
+age,interest,recommended programming language
+1,Games,Scratch
+1,Art,Python
+1,Music,Sonic Pi
+1,Web Development,HTML/CSS
+1,Science,Python
+1,Data Science,R
+2,Games,Scratch
+2,Art,JavaScript
+2,Mobile Apps,Swift
+2,Web Development,JavaScript
+2,Data Analysis,R
+3,Games,C++
+3,Robotics,Python
+3,AI,Python
+3,Finance,R
+3,Cybersecurity,Python
+4,Games,Scratch
+4,Art,Python
+4,Music,Sonic Pi
+4,Web Development,HTML/CSS
+4,Science,Python
+5,Games,Scratch
+5,Mobile Apps,Kotlin
+5,Web Development,JavaScript
+5,Data Analysis,R
+5,AI,Python
+6,Games,C#
+6,Robotics,Arduino
+6,Cybersecurity,Python
+6,Finance,R
+6,Education,JavaScript
+7,Games,Scratch
+7,Art,Python
+7,Music,Sonic Pi
+7,Web Development,HTML/CSS
+7,Data Science,Python
+8,Games,Scratch
+8,Mobile Apps,Swift
+8,Web Development,JavaScript
+8,Finance,R
+8,AI,Python
+9,Games,C++
+9,Robotics,Python
+9,Cybersecurity,Python
+9,Data Analysis,R
+9,Education,JavaScript
+10,Games,Scratch
+10,Art,Python
+10,Music,Sonic Pi
+10,Web Development,HTML/CSS
+10,Science,Python
+11,Games,Scratch
+11,Mobile Apps,Kotlin
+11,Web Development,JavaScript
+11,AI,Python
+11,Data Science,R
+12,Games,C#
+12,Robotics,Arduino
+12,Cybersecurity,Python
+12,Finance,R
+12,Education,JavaScript
+13,Games,Scratch
+13,Art,Python
+13,Music,Sonic Pi
+13,Web Development,HTML/CSS
+13,Data Analysis,R
+14,Games,Scratch
+14,Mobile Apps,Swift
+14,Web Development,JavaScript
+14,AI,Python
+14,Finance,R
+15,Games,C++
+15,Robotics,Python
+15,Cybersecurity,Python
+15,Data Science,R
+15,Education,JavaScript
+16,Games,Scratch
+16,Art,Python
+16,Music,Sonic Pi
+16,Web Development,HTML/CSS
+16,Science,Python
+17,Games,Scratch
+17,Mobile Apps,Kotlin
+17,Web Development,JavaScript
+17,AI,Python
+17,Data Analysis,R
+18,Games,C#
+18,Robotics,Arduino
+18,Cybersecurity,Python
+18,Finance,R
+18,Education,JavaScript
+19,Games,Scratch
+19,Art,Python
+19,Music,Sonic Pi
+19,Web Development,HTML/CSS
+19,Data Science,Python
+20,Games,Scratch
+20,Mobile Apps,Swift
+20,Web Development,JavaScript
+20,AI,Python
+20,Finance,R
+21,Games,C++
+21,Robotics,Python
+21,Cybersecurity,Python
+21,Data Analysis,R
+21,Education,JavaScript
+22,Games,Scratch
+22,Art,Python
+22,Music,Sonic Pi
+22,Web Development,HTML/CSS
+22,Science,Python
+23,Games,Scratch
+23,Mobile Apps,Kotlin
+23,Web Development,JavaScript
+23,AI,Python
+23,Data Science,R
+24,Games,C#
+24,Robotics,Arduino
+24,Cybersecurity,Python
+24,Finance,R
+24,Education,JavaScript
+25,Games,Scratch
+25,Art,Python
+25,Music,Sonic Pi
+25,Web Development,HTML/CSS
+25,Data Analysis,R
+26,Games,Scratch
+26,Mobile Apps,Swift
+26,Web Development,JavaScript
+26,AI,Python
+26,Finance,R
+27,Games,C++
+27,Robotics,Python
+27,Cybersecurity,Python
+27,Data Science,R
+27,Education,JavaScript
+28,Games,Scratch
+28,Art,Python
+28,Music,Sonic Pi
+28,Web Development,HTML/CSS
+28,Science,Python
+29,Games,Scratch
+29,Mobile Apps,Kotlin
+29,Web Development,JavaScript
+29,AI,Python
+29,Data Analysis,R
+30,Games,C#
+30,Robotics,Arduino
+30,Cybersecurity,Python
+30,Finance,R
+30,Education,JavaScript
+31,Games,Scratch
+31,Art,Python
+31,Music,Sonic Pi
+31,Web Development,HTML/CSS
+31,Data Science,Python
+32,Games,Scratch
+32,Mobile Apps,Swift
+32,Web Development,JavaScript
+32,AI,Python
+32,Finance,R
+33,Games,C++
+33,Robotics,Python
+33,Cybersecurity,Python
+33,Data Analysis,R
+33,Education,JavaScript
+34,Games,Scratch
+34,Art,Python
+34,Music,Sonic Pi
+34,Web Development,HTML/CSS
+34,Science,Python
+35,Games,Scratch
+35,Mobile Apps,Kotlin
+35,Web Development,JavaScript
+35,AI,Python
+35,Data Science,R
+36,Games,C#
+36,Robotics,Arduino
+36,Cybersecurity,Python
+36,Finance,R
+36,Education,JavaScript
+37,Games,Scratch
+37,Art,Python
+37,Music,Sonic Pi
+37,Web Development,HTML/CSS
+37,Data Analysis,R
+38,Games,Scratch
+38,Mobile Apps,Swift
+38,Web Development,JavaScript
+38,AI,Python
+38,Finance,R
+39,Games,C++
+39,Robotics,Python
+39,Cybersecurity,Python
+39,Data Science,R
+39,Education,JavaScript
+40,Games,Scratch
+40,Art,Python
+40,Music,Sonic Pi
+40,Web Development,HTML/CSS
+40,Science,Python
+41,Games,Scratch
+41,Mobile Apps,Kotlin
+41,Web Development,JavaScript
+41,AI,Python
+41,Data Analysis,R
+42,Games,C#
+42,Robotics,Arduino
+42,Cybersecurity,Python
+42,Finance,R
+42,Education,JavaScript
+43,Games,Scratch
+43,Art,Python
+43,Music,Sonic Pi
+43,Web Development,HTML/CSS
+43,Data Science,Python
+44,Games,Scratch
+44,Mobile Apps,Swift
+44,Web Development,JavaScript
+44,AI,Python
+44,Finance,R
+45,Games,C++
+45,Robotics,Python
+45,Cybersecurity,Python
+45,Data Analysis,R
+45,Education,JavaScript
+46,Games,Scratch
+46,Art,Python
+46,Music,Sonic Pi
+46,Web Development,HTML/CSS
+46,Science,Python
+47,Games,Scratch
+47,Mobile Apps,Kotlin
+47,Web Development,JavaScript
+47,AI,Python
+47,Data Science,R
+48,Games,C#
+48,Robotics,Arduino
+48,Cybersecurity,Python
+48,Finance,R
+48,Education,JavaScript
+49,Games,Scratch
+49,Art,Python
+49,Music,Sonic Pi
+49,Web Development,HTML/CSS
+49,Data Analysis,R
+50,Games,Scratch
+50,Mobile Apps,Swift
+50,Web Development,JavaScript
+50,AI,Python
+50,Finance,R
+51,Games,C++
+51,Robotics,Python
+51,Cybersecurity,Python
+51,Data Science,R
+51,Education,JavaScript
+52,Games,Scratch
+52,Art,Python
+52,Music,Sonic Pi
+52,Web Development,HTML/CSS
+52,Science,Python
+53,Games,Scratch
+53,Mobile Apps,Kotlin
+53,Web Development,JavaScript
+53,AI,Python
+53,Data Analysis,R
+54,Games,C#
+54,Robotics,Arduino
+54,Cybersecurity,Python
+54,Finance,R
+54,Education,JavaScript
+55,Games,Scratch
+55,Art,Python
+55,Music,Sonic Pi
+55,Web Development,HTML/CSS
+55,Data Science,Python
+56,Games,Scratch
+56,Mobile Apps,Swift
+56,Web Development,JavaScript
+56,AI,Python
+56,Finance,R
+57,Games,C++
+57,Robotics,Python
+57,Cybersecurity,Python
+57,Data Analysis,R
+57,Education,JavaScript
+58,Games,Scratch
+58,Art,Python
+58,Music,Sonic Pi
+58,Web Development,HTML/CSS
+58,Science,Python
+59,Games,Scratch
+59,Mobile Apps,Kotlin
+59,Web Development,JavaScript
+59,AI,Python
+59,Data Science,R
+60,Games,C#
+60,Robotics,Arduino
+60,Cybersecurity,Python
+60,Finance,R
+60,Education,JavaScript
+61,Games,Scratch
+61,Art,Python
+61,Music,Sonic Pi
+61,Web Development,HTML/CSS
+61,Data Analysis,R
+62,Games,Scratch
+62,Mobile Apps,Swift
+62,Web Development,JavaScript
+62,AI,Python
+62,Finance,R
+63,Games,C++
+63,Robotics,Python
+63,Cybersecurity,Python
+63,Data Science,R
+63,Education,JavaScript
+64,Games,Scratch
+64,Art,Python
+64,Music,Sonic Pi
+64,Web Development,HTML/CSS
+64,Science,Python
+65,Games,Scratch
+65,Mobile Apps,Kotlin
+65,Web Development,JavaScript
+65,AI,Python
+65,Data Analysis,R
+66,Games,C#
+66,Robotics,Arduino
+66,Cybersecurity,Python
+66,Finance,R
+66,Education,JavaScript
+67,Games,Scratch
+67,Art,Python
+67,Music,Sonic Pi
+67,Web Development,HTML/CSS
+67,Data Science,Python
+68,Games,Scratch
+68,Mobile Apps,Swift
+68,Web Development,JavaScript
+68,AI,Python
+68,Finance,R
+69,Games,C++
+69,Robotics,Python
+69,Cybersecurity,Python
+69,Data Analysis,R
+69,Education,JavaScript
+70,Games,Scratch
+70,Art,Python
+70,Music,Sonic Pi
+70,Web Development,HTML/CSS
+70,Science,Python
+71,Games,Scratch
+71,Mobile Apps,Kotlin
+71,Web Development,JavaScript
+71,AI,Python
+71,Data Science,R
+72,Games,C#
+72,Robotics,Arduino
+72,Cybersecurity,Python
+72,Finance,R
+72,Education,JavaScript
+73,Games,Scratch
+73,Art,Python
+73,Music,Sonic Pi
+73,Web Development,HTML/CSS
+73,Data Analysis,R
+74,Games,Scratch
+74,Mobile Apps,Swift
+74,Web Development,JavaScript
+74,AI,Python
+74,Finance,R
+75,Games,C++
+75,Robotics,Python
+75,Cybersecurity,Python
+75,Data Science,R
+75,Education,JavaScript
+76,Games,Scratch
+76,Art,Python
+76,Music,Sonic Pi
+76,Web Development,HTML/CSS
+76,Science,Python
+77,Games,Scratch
+77,Mobile Apps,Kotlin
+77,Web Development,JavaScript
+77,AI,Python
+77,Data Analysis,R
+78,Games,C#
+78,Robotics,Arduino
+78,Cybersecurity,Python
+78,Finance,R
+78,Education,JavaScript
+79,Games,Scratch
+79,Art,Python
+79,Music,Sonic Pi
+79,Web Development,HTML/CSS
+79,Data Science,Python
+80,Games,Scratch
+80,Mobile Apps,Swift
+80,Web Development,JavaScript
+80,AI,Python
+80,Finance,R
+81,Games,C++
+81,Robotics,Python
+81,Cybersecurity,Python
+81,Data Analysis,R
+81,Education,JavaScript
+82,Games,Scratch
+82,Art,Python
+82,Music,Sonic Pi
+82,Web Development,HTML/CSS
+82,Science,Python
+83,Games,Scratch
+83,Mobile Apps,Kotlin
+83,Web Development,JavaScript
+83,AI,Python
+83,Data Science,R
+84,Games,C#
+84,Robotics,Arduino
+84,Cybersecurity,Python
+84,Finance,R
+84,Education,JavaScript
+85,Games,Scratch
+85,Art,Python
+85,Music,Sonic Pi
+85,Web Development,HTML/CSS
+85,Data Analysis,R
+86,Games,Scratch
+86,Mobile Apps,Swift
+86,Web Development,JavaScript
+86,AI,Python
+86,Finance,R
+87,Games,C++
+87,Robotics,Python
+87,Cybersecurity,Python
+87,Data Science,R
+87,Education,JavaScript
+88,Games,Scratch
+88,Art,Python
+88,Music,Sonic Pi
+88,Web Development,HTML/CSS
+88,Science,Python
+89,Games,Scratch
+89,Mobile Apps,Kotlin
+89,Web Development,JavaScript
+89,AI,Python
+89,Data Analysis,R
+90,Games,C#
+90,Robotics,Arduino
+90,Cybersecurity,Python
+90,Finance,R
+90,Education,JavaScript
+91,Games,Scratch
+91,Art,Python
+91,Music,Sonic Pi
+91,Web Development,HTML/CSS
+91,Data Science,Python
+92,Games,Scratch
+92,Mobile Apps,Swift
+92,Web Development,JavaScript
+92,AI,Python
+92,Finance,R
+93,Games,C++
+93,Robotics,Python
+93,Cybersecurity,Python
+93,Data Analysis,R
+93,Education,JavaScript
+94,Games,Scratch
+94,Art,Python
+94,Music,Sonic Pi
+94,Web Development,HTML/CSS
+94,Science,Python
+95,Games,Scratch
+95,Mobile Apps,Kotlin
+95,Web Development,JavaScript
+95,AI,Python
+95,Data Science,R
+96,Games,C#
+96,Robotics,Arduino
+96,Cybersecurity,Python
+96,Finance,R
+96,Education,JavaScript
+97,Games,Scratch
+97,Art,Python
+97,Music,Sonic Pi
+97,Web Development,HTML/CSS
+97,Data Analysis,R
+98,Games,Scratch
+98,Mobile Apps,Swift
+98,Web Development,JavaScript
+98,AI,Python
+98,Finance,R
+99,Games,C++
+99,Robotics,Python
+99,Cybersecurity,Python
+99,Data Science,R
+99,Education,JavaScript
+100,Games,Scratch
+100,Art,Python
+100,Music,Sonic Pi
+100,Web Development,HTML/CSS
+100,Science,Python
